@@ -105,6 +105,4 @@
     </script>
 </body>
 
-<div></div>
-
 </html>
